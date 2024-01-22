@@ -1,0 +1,34 @@
+.nav {
+    width: 73%;
+    padding: 1%;
+    background-color: #E6B8AF;
+    list-style-type: none;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.inline-block {
+    vertical-align: top;
+}
+
+.ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+.footer {
+    background-color: #808967;
+    padding: center;
+}
+
+.ul {
+    display: inline-block;
+    vertical-align: top;
+}
